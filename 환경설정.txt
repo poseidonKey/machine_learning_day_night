@@ -1,0 +1,6 @@
+https 방식 이기 때문에 아래 작업을 통해 로컬로 구현해 본다.
+
+npm install -g local-web-server
+
+ws --https --port 9999 --open 
+https 방식으로 9999포트를 통해 현재 폴더를 연다.
